@@ -10,9 +10,9 @@ This an 3d reconstruction pipeline in deep learning.
 
   We decompose the reconstruction framework into different components and one can easily construct a customized reconstruction framework by combining different modules.
 
-- **Support of multiple frameworks out of box**
+- **Support of multiple frameworks of 3d reconstruction from image or images**
 
-  The toolbox directly supports popular and contemporary detection frameworks, *e.g.* Faster RCNN, Mask RCNN, RetinaNet, etc.
+  The toolbox directly supports popular and contemporary reconstruction frameworks, *e.g.* , etc.
 
 - **differential renderers**
 
