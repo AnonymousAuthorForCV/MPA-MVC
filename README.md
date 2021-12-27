@@ -3,6 +3,24 @@ This an 3d reconstruction pipeline in deep learning.
 
 # Introduction
 
+<details open>
+<summary>Major features</summary>
+
+- **Modular Design**
+
+  We decompose the reconstruction framework into different components and one can easily construct a customized reconstruction framework by combining different modules.
+
+- **Support of multiple frameworks out of box**
+
+  The toolbox directly supports popular and contemporary detection frameworks, *e.g.* Faster RCNN, Mask RCNN, RetinaNet, etc.
+
+- **differential renderers**
+
+  The toolbox support different differential renderers include neural rerender, 
+
+
+</details>
+
 # Supported methods:
 
 - [x] Learning Multi-Path Architectures for Multi-view Consistent 3D Face Alignment
@@ -10,9 +28,7 @@ This an 3d reconstruction pipeline in deep learning.
 - [x] NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video
 - [x] Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network
 
-# Supported differential renderer
-- [x] neural rerender
-- [x] pytorch3d
+
 
 # Installation
 
