@@ -18,6 +18,8 @@ This an 3d reconstruction pipeline in deep learning.
 
   The toolbox support different differential renderers include neural rerender, 
 
+- **support varigrained reconstructon**
+  We suppert face, body, indoor, outdoor and so on
 
 </details>
 
