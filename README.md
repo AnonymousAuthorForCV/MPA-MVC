@@ -1,5 +1,5 @@
 # deep3dmap
-This an 3d reconstruction pipeline in deep learning.
+This is an 3d reconstruction pipeline in deep learning.
 
 # Introduction
 
@@ -34,6 +34,7 @@ This an 3d reconstruction pipeline in deep learning.
 - [x] Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs
 - [x] NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video
 - [x] Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network
+- [ ] GNeRF: GAN-based Neural Radiance Field without Posed Camera
 
 
 
