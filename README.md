@@ -23,7 +23,8 @@ This an 3d reconstruction pipeline in deep learning.
   We suppert face, body, indoor, outdoor and so on
   
 - **multiple demo applications**
-  toy demos like 
+  
+  We provide abundant toy demos 
 
 </details>
 
