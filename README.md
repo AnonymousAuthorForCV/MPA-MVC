@@ -35,6 +35,7 @@ This is an 3d reconstruction pipeline in deep learning.
 - [x] NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video
 - [x] Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network
 - [ ] GNeRF: GAN-based Neural Radiance Field without Posed Camera
+- [ ] GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 
 
 
