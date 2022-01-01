@@ -21,6 +21,9 @@ This an 3d reconstruction pipeline in deep learning.
 - **support varigrained reconstructon**
   
   We suppert face, body, indoor, outdoor and so on
+  
+- **multiple demo applications**
+  toy demos like 
 
 </details>
 
