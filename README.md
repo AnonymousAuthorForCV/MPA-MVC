@@ -47,9 +47,10 @@ Please refer to [get_started.md](docs/get_started.md) for installation.
 # reference
 
 <details open>
-<summary>mmcv</summary>
+<summary>different from mmcv</summary>
 
 - **can use both dataset and dataloader to prepare input data**
   
 - **can define input key in the config which will be used in forward**
 
+</details>
