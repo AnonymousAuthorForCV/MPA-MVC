@@ -16,7 +16,7 @@ This is an 3d reconstruction pipeline in deep learning.
 
 - **differential renderers**
 
-  The toolbox support different differential renderers include neural rerender, 
+  The toolbox support different differential renderers include neural rerender, pyrender, pytorch3d, 
 
 - **support varigrained reconstructon**
   
@@ -42,4 +42,14 @@ This is an 3d reconstruction pipeline in deep learning.
 # Installation
 
 Please refer to [get_started.md](docs/get_started.md) for installation.
+
+
+# reference
+
+<details open>
+<summary>mmcv</summary>
+
+- **can use both dataset and dataloader to prepare input data**
+  
+- **can define input key in the config which will be used in forward**
 
